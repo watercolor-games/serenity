@@ -2,6 +2,8 @@
 
 Serenity is a cross-platform (Windows and Linux) editor environment for the [Peace Engine](https://github.com/watercolor-games/peace-engine). It is designed to aid development in The Peacenet, but can (and is recommended to) be used to makee your own games in Peace Engine.
 
+The editor's UI is written in Avalonia, a WPF-inspired cross-platform UI toolkit.
+
 ### Where'd the name come from?
 
 Serenity is a synonym for peace, the feeling we'd like to give developers when they are working with our engine. You should not have to read a manual the size of my forearm just to navigate the UI, but the editor environment should still be advanced. You should be able to accomplish more advanced projects even as a beginner user.
